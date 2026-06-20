@@ -1,16 +1,18 @@
-## Hi there 👋
+Contact:
 
-<!--
-**lafawr/lafawr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Telegram: @imyxz
+- Discord: @chaosintheorder
+- You can also PM (private-message) me on forums, but i usually don't check more than once or twice a day. If you're getting contact through here - message @admin
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Note:
+
+No need adding readme's to my github project. I add them on every one.
+
+
+- Interested in:
+
+- Source 2 / Valve development (networking, server-validation, shoot-position, lag compensation, interpolation / extrapolation)
+- Windows kernel (ntoskrnl)
+- Security research / CVEs
+- Cheat development / anti-cheat (attacker / defender)
