@@ -1,4 +1,4 @@
-Contact:
+# Contact:
 
 - Telegram: @imyxz
 - Discord: @chaosintheorder
