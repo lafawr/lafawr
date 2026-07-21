@@ -1,7 +1,7 @@
 # Contact
 
 - Telegram: @imyxz
-- Discord: @chaosintheorder
+- Discord: @svre11 | 268949599052496907
 - You can also PM (private-message) me on forums, but i usually don't check more than once or twice a day. If you're getting contact through here - message @admin
 
 # Note
