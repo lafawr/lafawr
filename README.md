@@ -13,3 +13,4 @@ No need adding readme's to my github project. I add them on every one.
 
 - Source 2
 - Reverse engineering, Windows internals
+- Programming languages: C++, C, and Assembly
