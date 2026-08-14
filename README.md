@@ -1,7 +1,6 @@
 # Contact
 
-- Telegram: @imyxz
-- Discord: @svre11 | 268949599052496907
+Administrator at Worldcorp: @admin
 
 # Note
 ------
