@@ -1,6 +1,3 @@
-# Contact
-
-Main developer and owner at worldcorp (worldcorp.ink): @admin is my account. The other developer is also @antique.
 
 # Note
 ------
